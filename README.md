@@ -1,5 +1,4 @@
 ![Banner Image](http://drive.google.com/uc?export=view&id=13jj8ywTh5yCg-MdTGsg7KbBnSBReBMb8)
-### Hi there 👋
 
 <!--
 **IbarraClaudy/IbarraClaudy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
